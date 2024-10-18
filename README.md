@@ -1,6 +1,8 @@
 
 This plugin provides serveral differing features (or stuff) exclusively for minecraft PE on ProtocolSupport servers.
 This plugin is deprecated and is scheduled for removeal/complete rewrite after protocolsupport mcpe support rewrite completes.
+> [!CAUTION]
+> ProtocolSupport Pocket Edition and ProtocolSupport has reached end of life, it is no longer updated. please switch to Geyser-Spigot.
 
 ### Features
 * Downloads & caches PC skins and sends them to PE.
